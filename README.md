@@ -1,7 +1,2 @@
-* EE 5410 Signal Processing - MATLAB Exercise 1
-* Telephone Touch-Tone Signal Encoding and Decoding
-
-* Intended Learning Outcomes
-On completion of this MATLAB laboratory exercise, you should be able to
-- Generate and decode telephone touch-tone signals
-- Understand the impact of additive noise in decoding touch-tone signals
+# cityu-ee5410-2022-matlab1
+On completion of this MATLAB laboratory exercise, you should be able to generate and decode telephone touch-tone signals and understand the impact of additive noise in decoding touch-tone signals
